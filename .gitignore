@@ -1,0 +1,6 @@
+misc_source
+**/*.pyc
+**/*.ipynb_checkpoints
+**/__pycache__
+**/notready
+**/*.so
