@@ -1,6 +1,8 @@
 # Code repository for "Balanced excitation and inhibition are required for high-capacity, noise-robust neuronal selectivity"
 ## Ran Rubin, L. F. Abbott and Haim Sompolinsky
 
+Link to PNAS [article](http://www.pnas.org/content/114/44/E9366.full).
+
 ### Content
 
 * QuadProg - Python code for finding maximal
@@ -18,7 +20,7 @@ input and output noise.
 and unbalances weights (Python w. custom C++ extention module).
 
 Example code is given in Jupyter notebooks in QuadProg, Theory, Recurrent and
-LIFsim. 
+LIFsim.
 
 ### Dependencies
 
