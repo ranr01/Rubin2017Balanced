@@ -4,7 +4,8 @@ Supplied as a Jupyter Notebook: SpikingNeuronsSims.ipynb
 
 The code is a python3 code using a custom C++ python extension.
 The C++ extension is only used to efficiently generate Poisson spike-trains from
-given input rates and to simulate the LIF dynamics.
+given input rates and to simulate the LIF dynamics. Part of the code is based
+on C code written by Robert Gütig.
 The C++ extension relies on the Boost-Python library.
 It would be possible to run the code without it by implementing
 these two (relatively) simple functions.
